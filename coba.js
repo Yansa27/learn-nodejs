@@ -17,7 +17,8 @@ class Orang {
     constructor() {
         console.log('Objek orang telah di buat!');
     }
-}
+};
+
 
 // module.exports.cetakNama = cetakNama;
 // module.exports.PI = PI;
@@ -31,4 +32,4 @@ class Orang {
 //     Orang: Orang,
 // }
 
-module.exports = { cetakNama , PI , mahasiswa , Orang};
+module.exports = { cetakNama , PI , mahasiswa , Orang };
